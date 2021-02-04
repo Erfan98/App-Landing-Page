@@ -1,0 +1,65 @@
+*{
+    font-family: 'Poppins','sans-serif';
+    margin: 0;
+    padding: 0;
+}
+/* Navbar CSS */
+.header{
+    margin-top:90px
+}
+.navbar-nav>li{
+    margin-left: 20px;
+}
+.try{
+    margin-left: 20px;
+    border-radius: 30px;
+    background-color: #2500f9;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+
+/* Top Section */
+.top-section{
+    height: 865px;
+    background-image: url("../img/Phone.png");
+    background-position: right;
+}
+.top-left-content{
+    margin-top:200px ;
+    padding: 30px;
+}
+.top-left-content h1{
+    font-size: 60px;
+    color: #242f51;
+}
+.top-left-content p{
+    font-size: 18px;
+    color: #616368;
+    padding-right: 100px;
+}
+.top-left-content .btn{
+    border-radius: 30px;
+    background-color: #2500f9;
+    padding-right:30px;
+    padding-left: 30px;
+    padding-top:15px;
+    padding-bottom:15px;
+
+}
+.col-md-5 img{
+    margin-top: 30px;
+}
+
+/* Top section end */
+
+
+
+/* Companies Wrapper */
+.companies-wrapper{
+    margin-top:120px;
+}
+.companies-wrapper .trust{
+    font-size: 16px;
+    color: #242f51;
+}
