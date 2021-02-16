@@ -106,4 +106,34 @@
     font-size: 35px;
 }
 
+.sub-sec{
+    margin-top: 60px;
+}
+.sub-sec p{
+    color: #616368;
+    font-size: 16px;
+}
+
+#text-head1{
+    color:#f55767;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+#text-head2{
+    color:#2563ff;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+#text-head3{
+    color:#40975f;
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+
+
+
 /* 3rd section end */
