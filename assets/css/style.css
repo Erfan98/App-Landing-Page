@@ -3,6 +3,18 @@
     margin: 0;
     padding: 0;
 }
+
+/* Common CSS */
+
+#btn{
+    height: 200px;
+    width: 100px;
+    background-color: #2500f9;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 30px;
+}
 /* Navbar CSS */
 .header{
     margin-top:90px
@@ -16,6 +28,7 @@
     background-color: #2500f9;
     padding-right: 30px;
     padding-left: 30px;
+
 }
 
 
@@ -137,3 +150,36 @@
 
 
 /* 3rd section end */
+
+
+/* Fourth Section Start */
+#fourth{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.rbtn{
+    margin-left: 60px;
+}
+
+/* Fourth Section End */
+
+
+/* 5th section start */
+#fifth{
+    margin-top: 100px;
+}
+#why{
+    margin-bottom: 50px;
+}
+#choose{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+#choose h5{
+    color: #242f51;
+    font-weight: 700;
+}
+#choose img{
+    width: 70px;
+}
+/* 5th section stop */
